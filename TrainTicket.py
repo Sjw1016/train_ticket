@@ -6,7 +6,7 @@
 @author: zhibuyu
 @file: TrainTicket.py
 @time: 2018-12-26 09:19
-@desc: 12306抢票
+@desc: 12306抢票11111
 '''
 from splinter.browser import Browser
 from splinter.driver.webdriver.chrome import Options, Chrome
